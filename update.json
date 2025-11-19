@@ -1,6 +1,6 @@
 {
-  "F_Version" : 4.0,
-  "F_Url" :"https://devsuprnd.github.io/SUPCP006/firmware_4.0.bin",
+  "F_Version" : 5.0,
+  "F_Url" :"https://devsuprnd.github.io/SUPCP006/firmware_5.0.bin",
   "S_Version" : 1.0,
   "S_Url" :"https://devsuprnd.github.io/SUPCP006/spiffs_1.0.bin"
 }
